@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
-<h3 align="center">ICT Student at AGH University of Science and Technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
